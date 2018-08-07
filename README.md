@@ -1,8 +1,8 @@
 ## Welcome to 周东辉的github pages
 
-You can use the [editor on GitHub](https://github.com/hui-fly/docsify/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+您可以使用GitHub上的编辑器在Markdown文件中维护和预览您网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交此存储库时，GitHub Pages将运行Jekyll以从Markdown文件中的内容重建站点中的页面。
 
 ### Markdown
 
